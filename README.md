@@ -1,0 +1,1 @@
+go-data-structures is a Go package that provides implementations of commonly used data structures, making it easier for developers to work with efficient, ready-to-use structures in Go. 
